@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivangisharma2103
-Hi, I am Shivangi Sharma, a 3rd year Computer Science Engineering Student.
+I am a 3rd year Computer Science Engineering Student.
 I've been immensely passionate and driven towards Data Science and Machine Learning for the past year, but recently Deep Learning and Computer Vision have started to grow on me.
 I always look for opportunities to dig deeper into the world of data and it's magnificence.
 									
